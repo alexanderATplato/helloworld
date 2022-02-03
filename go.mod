@@ -1,3 +1,3 @@
-module github.com/plato-app/helloworld
+module git-corp.playchat.net/operations/helloworld
 
 go 1.17
